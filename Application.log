@@ -1,0 +1,71 @@
+2018-11-13 07:40:31 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (277b0da7fe34f123af522a312b6d524e)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2018-11-13 07:40:32 INFO  BasePage:63 - Mouse hovered on [[ChromeDriver: chrome on XP (277b0da7fe34f123af522a312b6d524e)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2018-11-13 07:40:34 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (277b0da7fe34f123af522a312b6d524e)] -> link text: Embroidered Sarees] found
+2018-11-13 07:40:46 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (277b0da7fe34f123af522a312b6d524e)] -> xpath: //img[contains(@src,'CV-35964-MCRAF25748058240-1523264883')]] found
+2018-11-13 07:40:53 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (277b0da7fe34f123af522a312b6d524e)] -> id: buynow] found
+2018-11-13 07:40:59 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (277b0da7fe34f123af522a312b6d524e)] -> id: address-email] found
+2018-11-13 07:41:02 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (277b0da7fe34f123af522a312b6d524e)] -> id: address-first-name] found
+2018-11-13 07:41:02 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (277b0da7fe34f123af522a312b6d524e)] -> id: address-mobileno] found
+2018-11-13 07:43:16 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2018-11-13 07:43:17 INFO  BasePage:63 - Mouse hovered on [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2018-11-13 07:43:18 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> link text: Embroidered Sarees] found
+2018-11-13 07:43:29 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> xpath: //img[contains(@src,'CV-35964-MCRAF25748058240-1523264883')]] found
+2018-11-13 07:43:35 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> xpath: //h1[@itemprop='name']] found
+2018-11-13 07:43:35 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> id: buynow] found
+2018-11-13 07:43:40 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> id: address-email] found
+2018-11-13 07:43:41 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> id: address-first-name] found
+2018-11-13 07:43:43 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (d5f063d5d9a7c50fd4bb1b9862ee3dff)] -> id: address-mobileno] found
+2018-11-13 08:10:23 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (a742699eafedbaf2fe7c4c5a409da68b)] -> xpath: //span[text()='Sign In']] found
+2018-11-13 08:10:25 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (a742699eafedbaf2fe7c4c5a409da68b)] -> id: emailId] found
+2018-11-13 08:10:26 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (a742699eafedbaf2fe7c4c5a409da68b)] -> id: continueBtn] found
+2018-11-13 08:10:27 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (a742699eafedbaf2fe7c4c5a409da68b)] -> id: userPassword] found
+2018-11-13 08:10:28 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (a742699eafedbaf2fe7c4c5a409da68b)] -> id: loginCheck] found
+2018-11-13 08:10:28 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (a742699eafedbaf2fe7c4c5a409da68b)] -> xpath: //i[@class='icon cv-login']] found
+2018-11-13 08:10:29 INFO  BasePage:63 - Mouse hovered on [[ChromeDriver: chrome on XP (a742699eafedbaf2fe7c4c5a409da68b)] -> xpath: //i[@class='icon cv-login']]
+2018-11-13 08:10:39 ERROR BasePage:52 - Unable to find[[ChromeDriver: chrome on XP (a742699eafedbaf2fe7c4c5a409da68b)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]
+2018-11-13 08:13:06 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (1712b7f75d442ca44dcb08fe344607cb)] -> xpath: //span[text()='Sign In']] found
+2018-11-13 08:13:08 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (1712b7f75d442ca44dcb08fe344607cb)] -> id: emailId] found
+2018-11-13 08:13:09 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (1712b7f75d442ca44dcb08fe344607cb)] -> id: continueBtn] found
+2018-11-13 08:13:10 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (1712b7f75d442ca44dcb08fe344607cb)] -> id: userPassword] found
+2018-11-13 08:13:11 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (1712b7f75d442ca44dcb08fe344607cb)] -> id: loginCheck] found
+2018-11-13 08:13:12 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (1712b7f75d442ca44dcb08fe344607cb)] -> id: loginLogoutResponse] found
+2018-11-13 08:13:12 INFO  BasePage:63 - Mouse hovered on [[ChromeDriver: chrome on XP (1712b7f75d442ca44dcb08fe344607cb)] -> id: loginLogoutResponse]
+2018-11-13 08:13:22 ERROR BasePage:52 - Unable to find[[ChromeDriver: chrome on XP (1712b7f75d442ca44dcb08fe344607cb)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']]
+2018-11-13 08:16:40 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //span[text()='Sign In']] found
+2018-11-13 08:16:41 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: emailId] found
+2018-11-13 08:16:42 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: continueBtn] found
+2018-11-13 08:16:43 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: userPassword] found
+2018-11-13 08:16:43 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: loginCheck] found
+2018-11-13 08:16:51 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='#']/span[@class='hidden-xs user-name']] found
+2018-11-13 08:16:51 INFO  BasePage:63 - Mouse hovered on [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='#']/span[@class='hidden-xs user-name']]
+2018-11-13 08:16:52 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']] found
+2018-11-13 08:17:03 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvillamatched
+2018-11-13 08:17:03 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //span[text()='Sign In']] found
+2018-11-13 08:17:04 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: emailId] found
+2018-11-13 08:17:05 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: continueBtn] found
+2018-11-13 08:17:06 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: userPassword] found
+2018-11-13 08:17:07 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: loginCheck] found
+2018-11-13 08:17:12 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='#']/span[@class='hidden-xs user-name']] found
+2018-11-13 08:17:13 INFO  BasePage:63 - Mouse hovered on [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='#']/span[@class='hidden-xs user-name']]
+2018-11-13 08:17:13 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']] found
+2018-11-13 08:17:24 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvillamatched
+2018-11-13 08:17:25 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //span[text()='Sign In']] found
+2018-11-13 08:17:25 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: emailId] found
+2018-11-13 08:17:26 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: continueBtn] found
+2018-11-13 08:17:27 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: userPassword] found
+2018-11-13 08:17:28 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: loginCheck] found
+2018-11-13 08:17:34 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='#']/span[@class='hidden-xs user-name']] found
+2018-11-13 08:17:34 INFO  BasePage:63 - Mouse hovered on [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='#']/span[@class='hidden-xs user-name']]
+2018-11-13 08:17:35 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']] found
+2018-11-13 08:17:48 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvillamatched
+2018-11-13 08:17:48 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> xpath: //span[text()='Sign In']] found
+2018-11-13 08:17:50 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: emailId] found
+2018-11-13 08:17:51 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: continueBtn] found
+2018-11-13 08:17:52 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: userPassword] found
+2018-11-13 08:17:53 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ed3d66d06421fff6ad510515c9ddf053)] -> id: loginCheck] found
+2018-11-13 08:21:59 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (5fa1cc9567ad8231b044fa2fd38b974e)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2018-11-13 08:22:00 INFO  BasePage:63 - Mouse hovered on [[ChromeDriver: chrome on XP (5fa1cc9567ad8231b044fa2fd38b974e)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2018-11-13 08:22:01 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (5fa1cc9567ad8231b044fa2fd38b974e)] -> link text: Embroidered Sarees] found
+2018-11-13 08:22:13 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (5fa1cc9567ad8231b044fa2fd38b974e)] -> xpath: //img[contains(@src,'CV-35964-MCRAF25748058240-1523264883')]] found
+2018-11-13 08:22:20 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (5fa1cc9567ad8231b044fa2fd38b974e)] -> xpath: //h1[@itemprop='name']] found
+2018-11-13 08:22:20 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (5fa1cc9567ad8231b044fa2fd38b974e)] -> id: buynow] found
