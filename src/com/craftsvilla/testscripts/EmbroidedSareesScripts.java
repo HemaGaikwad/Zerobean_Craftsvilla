@@ -51,5 +51,10 @@ public class EmbroidedSareesScripts extends BaseTest
 		}
 		
 	}
+	
+	public void TC_02_BuySaree()
+	{
+		
+	}
 
 }
